@@ -1,0 +1,9 @@
+//Aqui configuramos los presets que instalamos con los comandos
+//@babel/core
+
+{
+    "presets": [
+        "@babel/preset-env",
+        "@babel/preset-react"
+    ]
+}
